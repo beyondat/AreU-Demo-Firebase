@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "areu-demo",
+    "staging": "areu-demo"
+  }
+}
